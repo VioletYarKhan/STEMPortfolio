@@ -1,3 +1,5 @@
+[Home](README.md) | [ORNL Internship 2](ORNL2.md) | [Tetris AI](TetrisAI.md) | [Robotics](Robotics.md)
+
 # FIRST Robotics Team 3966 — Driver & Lead Programmer
 
 **Problem:** Design and operate a competitive FRC robot capable of performing reliably under pressure throughout the season.
