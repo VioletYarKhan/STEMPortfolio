@@ -1,6 +1,6 @@
-[Home](README.md) | [ORNL Internship 2](ORNL2.md) | [Tetris AI](TetrisAI.md) | [Robotics](Robotics.md)
-
 # Oak Ridge National Laboratory Internship — Molecular Dynamics Validation
+
+[Home](README.md) | [ORNL Internship 2](ORNL2.md) | [Tetris AI](TetrisAI.md) | [Robotics](Robotics.md)
 
 **Problem:** Validate molecular dynamics simulations of liquid water using high-performance computing to assess simulation accuracy and computational efficiency.
 
