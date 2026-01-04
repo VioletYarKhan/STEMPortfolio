@@ -5,6 +5,23 @@
 **Problem:**  
 How can computational models be used to evaluate the effectiveness of public health policies during an epidemic?
 
+<!--
+Source - https://stackoverflow.com/a
+Posted by Viper
+Retrieved 2026-01-04, License - CC BY-SA 3.0
+-->
+
+<img id="ORNL1Poster" src="Violet_Sullivan_NGP_FINAL_page-0001.jpg">
+
+<style>
+#ORNL1Poster {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    height: auto;
+}
+</style>
 
 ## Context
 - Oak Ridge National Laboratory  

@@ -4,6 +4,24 @@
 
 **Problem:** Validate molecular dynamics simulations of liquid water using high-performance computing to assess simulation accuracy and computational efficiency.
 
+<!--
+Source - https://stackoverflow.com/a
+Posted by Viper
+Retrieved 2026-01-04, License - CC BY-SA 3.0
+-->
+
+<img id="ORNL2Poster" src="NGP Poster FINAL - Harrison and YarKhan_page-0001.jpg">
+
+<style>
+#ORNL2Poster {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    height: auto;
+}
+</style>
+
 **Context:**  
 - Oak Ridge National Laboratory  
 - Summer 2025  
