@@ -2,7 +2,7 @@
 
 [Home](README.md) | [Robotics](Robotics.md) | [ORNL Internship 1](ORNL1.md) | [ORNL Internship 2](ORNL2.md) | [Tetris AI](TetrisAI.md)
 
-**Problem:**  
+## Problem:  
 How can computational models be used to evaluate the effectiveness of public health policies during an epidemic?
 
 <!--
