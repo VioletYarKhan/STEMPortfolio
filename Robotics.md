@@ -2,7 +2,7 @@
 
 [Home](README.md) | [Robotics](Robotics.md) | [ORNL Internship 2](ORNL2.md) | [Tetris AI](TetrisAI.md)
 
-<img src="Swordfish.jpeg" alt="2025 Robot: Swordfish" width="300" height="200">
+<img src="Swordfish.jpeg" alt="2025 Robot: Swordfish" width="650" height="750">
 
 **Problem:** Design and operate a competitive FRC robot capable of performing reliably under pressure throughout the season.
 
