@@ -15,7 +15,7 @@ Retrieved 2026-01-04, License - CC BY-SA 3.0
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 750px;
+    width: 400px;
     height: auto;
 }
 </style>
