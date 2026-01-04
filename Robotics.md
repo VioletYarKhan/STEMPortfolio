@@ -43,7 +43,7 @@ Developing control systems that could handle dynamic competition conditions whil
 - PID control systems and real-time feedback loops
 
 **Results:**  
-- Helped improve team ranking from outside the top 2600 worldwide to nearly top 600 in a single season
+- Helped improve team ranking from 25% worldwide to top 16% in a single season
 - Regional Finals appearance  
 - Created modular template code for future robots to facilitate team onboarding
 
