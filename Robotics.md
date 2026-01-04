@@ -2,6 +2,9 @@
 
 [Home](README.md) | [Robotics](Robotics.md) | [ORNL Internship 2](ORNL2.md) | [Tetris AI](TetrisAI.md)
 
+
+**Problem:** Design and operate a competitive FRC robot capable of performing reliably under pressure throughout the season.
+
 <!--
 Source - https://stackoverflow.com/a
 Posted by Viper
@@ -19,8 +22,6 @@ Retrieved 2026-01-04, License - CC BY-SA 3.0
     height: auto;
 }
 </style>
-
-**Problem:** Design and operate a competitive FRC robot capable of performing reliably under pressure throughout the season.
 
 **Context:**  
 - Team 3966, FIRST Robotics Competition  
