@@ -14,9 +14,9 @@
 Developing control systems that could handle dynamic competition conditions while coordinating with a larger software team. The robot required precise timing, rapid decision-making, and modular programming to adapt to different game challenges.
 
 **My Contributions:**  
-- Implemented core robot control logic, including shooter and turret systems  
+- Implemented core robot control logic, including shooter and turret system simulations for future team use 
 - Performed 150+ Git commits to refine and optimize code over the season  
-- Acted as primary driver, making split-second decisions that guided the team to the Regional Finals  
+- Acted as primary driver, making split-second decisions that guided the team to Regional Finals 
 
 **Tools & Methods:**  
 - Java & WPILib for robot programming  
@@ -24,12 +24,12 @@ Developing control systems that could handle dynamic competition conditions whil
 - PID control systems and real-time feedback loops
 
 **Results:**  
-- Improved team ranking from outside the top 2600 worldwide to nearly top 600 in a single season  
+- Helped improve team ranking from outside the top 2600 worldwide to nearly top 600 in a single season
 - Regional Finals appearance  
 - Created modular template code for future robots to facilitate team onboarding
 
 **Reflection:**  
 This experience taught me the importance of integrating software and hardware under real-world constraints. Driving the robot informed how I approached programming decisions, highlighting the connection between human factors and control system design.
 
-[GitHub Repository](https://github.com/gryphoncommand/2025Code)  
-[Season Highlights Video](https://drive.google.com/file/d/1TfkAZb85JJiTLHGDsv8WiVBUcLH-XIGa/view?usp=sharing)
+[GitHub Repository 2025](https://github.com/gryphoncommand/2025Code)  
+[Practice Match 360° Camera Video](https://drive.google.com/file/d/1TfkAZb85JJiTLHGDsv8WiVBUcLH-XIGa/view?usp=sharing)
