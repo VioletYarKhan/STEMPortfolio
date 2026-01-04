@@ -9,4 +9,5 @@ I am a student engineer interested in robotics, academic computing, and applied 
 
 This portfolio highlights my recent projects where I used my computation and engineering skills under pressure, whether it be time pressure, or issues of scale, and afterwards I reflected on how the systems in those fields can be improved.
 
-[GitHub](https://github.com/VioletYarKhan) | [Resume](https://drive.google.com/file/d/105hMoyDHSmuuqPuj9Z-gfys43P-_cOPW/view?usp=sharing)
+[GitHub](https://github.com/VioletYarKhan)
+[Resume](https://drive.google.com/file/d/105hMoyDHSmuuqPuj9Z-gfys43P-_cOPW/view?usp=sharing)
