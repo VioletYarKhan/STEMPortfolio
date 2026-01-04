@@ -25,14 +25,15 @@ Retrieved 2026-01-04, License - CC BY-SA 3.0
 
 ## Context
 - Oak Ridge National Laboratory  
-- Summer 2024  
+- 5 Weeks in Summer 2024  
 - Team: Two interns, supervised by research scientists  
 - Role: Model development, simulation, analysis
 
 This project focused on modeling the spread of infectious diseases using both differential-equation based and stochastic approaches to inform public health decision-making.
 
-## Technical Challenge
-Epidemics are inherently complex systems with nonlinear dynamics and a level of uncertainty. Accurately modeling them requires balancing realism with computational efficiency and clearly communicating assumptions.
+## Technical Challenges:
+- Epidemics are inherently complex systems with nonlinear dynamics and a level of uncertainty.
+- Accurately modeling them requires balancing realism with computational efficiency and clearly communicating assumptions.
 
 ## My Contributions
 - Implemented SIR-based differential equation models to simulate disease spread  

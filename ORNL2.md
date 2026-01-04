@@ -24,12 +24,13 @@ Retrieved 2026-01-04, License - CC BY-SA 3.0
 
 **Context:**  
 - Oak Ridge National Laboratory  
-- Summer 2025  
+- 5 Weeks in Summer 2025  
 - Team: Two interns, supervised by research scientists  
 - Role: Parallelization and statistical analysis
 
-**Technical Challenge:**  
-Simulations of water molecules require high computational power and precise analysis of molecule interactions. Serial methods were too slow for large-scale validation, necessitating parallel computation strategies, which had not yet been created.
+**Technical Challenges:**  
+- Simulations of water molecules require high computational power and precise analysis of molecule interactions.
+- Serial methods were too slow for large-scale validation, necessitating parallel computation strategies, which had not yet been created.
 
 **My Contributions:**  
 - Partitioned the simulated water box and analyzed atomic interactions in parallel using MPI4Py  

@@ -11,8 +11,9 @@
 - Team size: ~50  
 - Role: Primary driver, lead programmer, systems integrator
 
-**Technical Challenge:**  
-Developing control systems that could handle dynamic competition conditions while coordinating with a larger software team. The robot required precise timing, rapid decision-making, and modular programming to adapt to different game challenges.
+**Technical Challenges:**  
+- Developing control systems that could handle dynamic competition conditions while coordinating with a larger software team. 
+- The robot required precise timing, rapid decision-making, and modular programming to adapt to different game challenges.
 
 **My Contributions:**  
 - Implemented core robot control logic, including shooter and turret system simulations for future team use 

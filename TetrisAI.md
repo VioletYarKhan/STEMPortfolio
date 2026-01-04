@@ -24,8 +24,9 @@
 - Timeline: 2024–2025  
 - Role: Lead designer and implementer
 
-**Technical Challenge:**  
-Training AI agents to play Tetris requires exploring a large solution space and evaluating thousands of possible strategies. Serial training methods were too slow, so parallelization was necessary.
+**Technical Challenges:**  
+- Training AI agents to play Tetris requires exploring a large solution space and evaluating thousands of possible strategies.
+- Serial training methods were too slow, so parallelization was necessary.
 
 **My Contributions:**  
 - Implemented Neuroevolution of Augmenting Topologies (NEAT) to evolve neural networks for gameplay  
