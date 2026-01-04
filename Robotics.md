@@ -25,7 +25,7 @@ Developing control systems that could handle dynamic competition conditions whil
 - PID control systems and real-time feedback loops
 
 **Results:**  
-- Helped improve team ranking from 25% worldwide to top 16% in a single season
+- Helped improve team ranking from bottom 25% worldwide to top 16% in a single season
 - As junior, programmed & drove robot for team to be Alliance Captain at Rocket City Regional (2025) & Smoky Mountains Regional (2025), going to a finals tiebreaker to qualify for the world championships at Smoky Mountain Regional.
 - Created modular template code for future robots to facilitate team onboarding
 
