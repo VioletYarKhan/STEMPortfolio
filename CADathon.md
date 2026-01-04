@@ -61,5 +61,5 @@ In this event, West Coast Products released a brand-new theoretical game and req
 With limited time and incomplete information, I learned to favor simplicity, robustness, and clear assumptions over theoretically optimal designs, which is an approach directly applicable to real-world engineering environments when feasability comes into question.  
 
 [Design Documentation PDF](https://drive.google.com/file/d/1qHplBDfvMUsecHx0ko41gLbZD6nvemOZ/view?usp=sharing)  
-[Onshape CAD Model](https://cad.onshape.com/documents/897f8e8e96af0a1741ef0e6f/w/0cb92fccb134b29143ce9185/e/239881dbf42e43032abc7fed)
+[Onshape CAD Model](https://cad.onshape.com/documents/897f8e8e96af0a1741ef0e6f/w/0cb92fccb134b29143ce9185/e/239881dbf42e43032abc7fed)  
 [WCP CADathon 2025 Game Manual](https://docs.google.com/document/d/1nNpAchUD-hpe1uz8j9genUILXjWeNt5UqWTSC6C7gyg/edit?tab=t.0)
