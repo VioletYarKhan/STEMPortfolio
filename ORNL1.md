@@ -48,6 +48,7 @@ This project focused on modeling the spread of infectious diseases using both di
 - Data visualization with matplotlib
 
 ## Results
+- Research resuts presented at Oak Ridge Leadership Computing Facility User Meeting 2024
 - Social distancing produced the strongest short-term reduction in infections  
 - Vaccination supported long-term immunity
 - A combined strategy was the most effective at controlling an epidemic  

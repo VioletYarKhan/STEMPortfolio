@@ -44,6 +44,8 @@ Retrieved 2026-01-04, License - CC BY-SA 3.0
 - Statistical analysis of molecular dynamics data
 
 ## Results:  
+- Research results presented at Oak Ridge Leadership Computing Facility User Meeting 2025, where it was awarded as 2nd best in show
+- Research results presented at Smoky Mountains Computational Sciences and Engineering Conference 2025
 - Parallelization significantly reduced computation time compared to serial methods  
 - Enabled large-scale validation of molecular simulations relevant to biomedical research  
 - Approach can extend to interactions with proteins in the fluid and experimental comparisons  
