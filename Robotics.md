@@ -1,4 +1,4 @@
-# FIRST Robotics Team 3966 — Driver & Lead Programmer
+# FIRST Robotics Team 3966: Driver & Lead Programmer
 
 [Home](README.md) | [Robotics](Robotics.md) | [ORNL Internship 2](ORNL2.md) | [Tetris AI](TetrisAI.md)
 

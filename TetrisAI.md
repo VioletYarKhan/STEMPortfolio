@@ -1,4 +1,4 @@
-# Tetris AI — Neuroevolution and Parallel Training
+# Tetris AI: Neuroevolution and Parallel Training
 
 [Home](README.md) | [Robotics](Robotics.md) | [ORNL Internship 2](ORNL2.md) | [Tetris AI](TetrisAI.md)
 

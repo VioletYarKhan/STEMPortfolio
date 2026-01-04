@@ -1,4 +1,4 @@
-# Oak Ridge National Laboratory Internship — Molecular Dynamics Validation
+# Oak Ridge National Laboratory Internship: Molecular Dynamics Validation
 
 [Home](README.md) | [Robotics](Robotics.md) | [ORNL Internship 2](ORNL2.md) | [Tetris AI](TetrisAI.md)
 
