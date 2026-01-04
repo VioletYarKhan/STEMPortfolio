@@ -10,7 +10,7 @@ Posted by Viper
 Retrieved 2026-01-04, License - CC BY-SA 3.0
 -->
 
-<img id="ORNL2Poster" src="NGP Poster FINAL - Harrison and YarKhan_page-0001.jpg">
+<img id="ORNL2Poster" src="Violet_Sullivan_NGP_FINAL_page-0001.jpg">
 
 <style>
 #ORNL2Poster {

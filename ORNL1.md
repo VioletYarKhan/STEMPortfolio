@@ -11,7 +11,7 @@ Posted by Viper
 Retrieved 2026-01-04, License - CC BY-SA 3.0
 -->
 
-<img id="ORNL1Poster" src="Violet_Sullivan_NGP_FINAL_page-0001.jpg">
+<img id="ORNL1Poster" src="NGP Poster FINAL - Harrison and YarKhan_page-0001.jpg">
 
 <style>
 #ORNL1Poster {
