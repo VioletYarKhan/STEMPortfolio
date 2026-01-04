@@ -4,6 +4,21 @@
 
 **Problem:** Can an AI learn to play Tetris optimally using evolutionary algorithms and parallel computation?
 
+<video id="TetrisVid" autoplay loop muted playsinline>
+    <source src="TetrisRecording.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+<style>
+#TetrisVid {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    height: auto;
+}
+</style>
+
 **Context:**  
 - Personal project / school outreach  
 - Timeline: 2024–2025  
