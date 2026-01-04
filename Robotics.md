@@ -18,7 +18,7 @@ Retrieved 2026-01-04, License - CC BY-SA 3.0
 #Swordfish2025 {
     display: block;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: auto;x
     width: 350px;
     height: auto;
 }
@@ -46,7 +46,7 @@ Retrieved 2026-01-04, License - CC BY-SA 3.0
 
 ## Results
 - Helped improve team ranking from bottom 25% worldwide to top 16% in a single season
-- As junior, programmed & drove robot for team to be Alliance Captain at Rocket City Regional (2025) & Smoky Mountains Regional (2025), going to a finals tiebreaker to qualify for the world championships at Smoky Mountain Regional.
+- As junior, programmed & drove robot for team to be Alliance Captain at Rocket City Regional (2025) & Smoky Mountains Regional (2025), going to a finals tiebreaker to qualify for the world championships at Smoky Mountain Regional
 - Created modular template code for future robots to facilitate team onboarding
 
 ## Reflection

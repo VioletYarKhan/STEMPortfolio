@@ -3,7 +3,7 @@
 [Home](README.md) | [Robotics](Robotics.md) | [ORNL Internship 1](ORNL1.md) | [ORNL Internship 2](ORNL2.md) | [Tetris AI](TetrisAI.md)
 
 # Violet YarKhan  
-**Prospective Engineering / Computer Science Student**
+**Prospective Computer Science Student**
 
 I am a student engineer interested in robotics, academic computing, and applied algorithms. My work is in competitive robotics, AI systems, and computational research, where I use mathematical modeling and high-performance computing to study real-world systems.
 
