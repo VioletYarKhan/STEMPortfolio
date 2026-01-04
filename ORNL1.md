@@ -1,4 +1,4 @@
-# Oak Ridge National Laboratory Internship — Epidemic Modeling
+# Oak Ridge National Laboratory Internship: Epidemic Modeling
 
 [Home](README.md) | [Robotics](Robotics.md) | [ORNL Internship 1](ORNL1.md) | [ORNL Internship 2](ORNL2.md) | [Tetris AI](TetrisAI.md)
 
