@@ -6,6 +6,24 @@
 ## Problem:  
 Design and operate a competitive FRC robot capable of performing reliably under pressure throughout the season.
 
+<!--
+Source - https://stackoverflow.com/a
+Posted by Viper
+Retrieved 2026-01-04, License - CC BY-SA 3.0
+-->
+
+<img id="Swordfish2025" src="Swordfish.jpeg">
+
+<style>
+#Swordfish2025 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    height: auto;
+}
+</style>
+
 ## Context
 - Team 3966, FIRST Robotics Competition  
 - Season: 2025  
@@ -36,21 +54,3 @@ This experience taught me the importance of integrating software and hardware un
 
 [GitHub Repository 2025](https://github.com/gryphoncommand/2025Code)  
 [Practice Match 360° Camera Video](https://drive.google.com/file/d/1TfkAZb85JJiTLHGDsv8WiVBUcLH-XIGa/view?usp=sharing)
-
-<!--
-Source - https://stackoverflow.com/a
-Posted by Viper
-Retrieved 2026-01-04, License - CC BY-SA 3.0
--->
-
-<img id="Swordfish2025" src="Swordfish.jpeg">
-
-<style>
-#Swordfish2025 {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 350px;
-    height: auto;
-}
-</style>
