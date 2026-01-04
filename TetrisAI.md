@@ -1,6 +1,6 @@
 # Tetris AI: Neuroevolution and Parallel Training
 
-[Home](README.md) | [Robotics](Robotics.md) | [ORNL Internship 2](ORNL2.md) | [Tetris AI](TetrisAI.md)
+[Home](README.md) | [Robotics](Robotics.md) | [ORNL Internship 1](ORNL1.md) | [ORNL Internship 2](ORNL2.md) | [Tetris AI](TetrisAI.md)
 
 **Problem:** Can an AI learn to play Tetris optimally using evolutionary algorithms and parallel computation?
 

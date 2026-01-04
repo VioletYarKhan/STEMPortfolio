@@ -1,6 +1,6 @@
 # Oak Ridge National Laboratory Internship: Molecular Dynamics Validation
 
-[Home](README.md) | [Robotics](Robotics.md) | [ORNL Internship 2](ORNL2.md) | [Tetris AI](TetrisAI.md)
+[Home](README.md) | [Robotics](Robotics.md) | [ORNL Internship 1](ORNL1.md) | [ORNL Internship 2](ORNL2.md) | [Tetris AI](TetrisAI.md)
 
 **Problem:** Validate molecular dynamics simulations of liquid water using high-performance computing to assess simulation accuracy and computational efficiency.
 
@@ -32,4 +32,4 @@ Simulations of water molecules require high computational power and precise anal
 This project allowed me to harness the power of parallelization for real scientific problems. I learned to translate theoretical methods into scalable workflows and gained experience in combining programming and physical systems.
 
 [Project Repository](https://github.com/VioletYarKhan/Internship-Work-2025)  
-[Final Poster PDF](https://drive.google.com/file/d/1o6u2bI8O1qgDeZs3PZByenMVqHwoArR3/view?usp=sharing)
+[Project Poster PDF](https://drive.google.com/file/d/1o6u2bI8O1qgDeZs3PZByenMVqHwoArR3/view?usp=sharing)
