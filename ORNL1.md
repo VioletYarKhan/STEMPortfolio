@@ -8,7 +8,7 @@ How can computational models be used to evaluate the effectiveness of public hea
 
 ## Context
 - Oak Ridge National Laboratory  
-- Summer Internship  
+- Summer 2024  
 - Team: Two interns, supervised by research scientists  
 - Role: Model development, simulation, analysis
 
